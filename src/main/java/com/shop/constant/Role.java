@@ -1,2 +1,5 @@
-package com.shop.constant;public class Role {
+package com.shop.constant;
+
+public enum Role {
+    USER, ADMIN
 }
